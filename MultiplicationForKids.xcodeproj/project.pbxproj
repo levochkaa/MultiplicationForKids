@@ -51,10 +51,10 @@
 		DF32A0282881968100389DBB /* MultiplicationForKids */ = {
 			isa = PBXGroup;
 			children = (
+				DF32A02F2881968300389DBB /* Preview Content */,
+				DF32A02D2881968300389DBB /* Assets.xcassets */,
 				DF32A0292881968100389DBB /* MultiplicationForKidsApp.swift */,
 				DF32A02B2881968100389DBB /* ContentView.swift */,
-				DF32A02D2881968300389DBB /* Assets.xcassets */,
-				DF32A02F2881968300389DBB /* Preview Content */,
 			);
 			path = MultiplicationForKids;
 			sourceTree = "<group>";
